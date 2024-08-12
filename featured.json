@@ -1,0 +1,79 @@
+{
+  "featuredNews": [
+    {
+      "id": "1",
+      "title": "Breaking News: Major Event Happening Now",
+      "slug": "major-event-happening-now",
+      "content": "Details of the major event happening now. This news item covers all the aspects and updates related to the ongoing situation.",
+      "image": "https://via.placeholder.com/800x400?text=Breaking+News",
+      "author": {
+        "name": "John Doe",
+        "profilePicture": "https://via.placeholder.com/100?text=John+Doe"
+      },
+      "publishedAt": "2024-08-11T08:00:00Z",
+      "updatedAt": "2024-08-11T10:00:00Z",
+      "analytics": {
+        "comments": [
+          {
+            "userId": "2",
+            "username": "JaneSmith",
+            "comment": "Great coverage on this event!",
+            "postedAt": "2024-08-11T09:00:00Z"
+          },
+          {
+            "userId": "3",
+            "username": "EmilyJohnson",
+            "comment": "I appreciate the detailed updates.",
+            "postedAt": "2024-08-11T09:30:00Z"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "title": "New Technology Trends for 2024",
+      "slug": "new-technology-trends-2024",
+      "content": "Exploring the new technology trends that are expected to shape the industry in 2024. This article provides insights into the most anticipated innovations.",
+      "image": "https://via.placeholder.com/800x400?text=Tech+Trends",
+      "author": {
+        "name": "Jane Smith",
+        "profilePicture": "https://via.placeholder.com/100?text=Jane+Smith"
+      },
+      "publishedAt": "2024-08-10T15:00:00Z",
+      "updatedAt": "2024-08-10T16:00:00Z",
+      "analytics": {
+        "comments": [
+          {
+            "userId": "1",
+            "username": "JohnDoe",
+            "comment": "Fascinating insights! Can’t wait to see these trends unfold.",
+            "postedAt": "2024-08-10T16:30:00Z"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "title": "Global Economic Forecast for 2024",
+      "slug": "global-economic-forecast-2024",
+      "content": "An in-depth analysis of the global economic forecast for 2024. This piece covers predictions and expected trends in the global economy.",
+      "image": "https://via.placeholder.com/800x400?text=Economic+Forecast",
+      "author": {
+        "name": "Emily Johnson",
+        "profilePicture": "https://via.placeholder.com/100?text=Emily+Johnson"
+      },
+      "publishedAt": "2024-08-09T12:00:00Z",
+      "updatedAt": "2024-08-09T13:00:00Z",
+      "analytics": {
+        "comments": [
+          {
+            "userId": "4",
+            "username": "MichaelBrown",
+            "comment": "This is a crucial read for anyone interested in the global market.",
+            "postedAt": "2024-08-09T13:15:00Z"
+          }
+        ]
+      }
+    }
+  ]
+}

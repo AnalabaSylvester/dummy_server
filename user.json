@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "sId": "1",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "+1234567890",
+      "createdAt": "2024-08-01T12:00:00Z",
+      "updatedAt": "2024-08-01T12:00:00Z",
+      "iV": 1,
+      "token": "token1",
+      "profilePicture": "https://via.placeholder.com/150?text=John+Doe"
+    },
+    {
+      "sId": "2",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "phone": "+0987654321",
+      "createdAt": "2024-08-02T12:00:00Z",
+      "updatedAt": "2024-08-02T12:00:00Z",
+      "iV": 1,
+      "token": "token2",
+      "profilePicture": "https://via.placeholder.com/150?text=Jane+Smith"
+    },
+    {
+      "sId": "3",
+      "name": "Emily Johnson",
+      "email": "emily.johnson@example.com",
+      "phone": "+1122334455",
+      "createdAt": "2024-08-03T12:00:00Z",
+      "updatedAt": "2024-08-03T12:00:00Z",
+      "iV": 1,
+      "token": "token3",
+      "profilePicture": "https://via.placeholder.com/150?text=Emily+Johnson"
+    },
+    {
+      "sId": "4",
+      "name": "Michael Brown",
+      "email": "michael.brown@example.com",
+      "phone": "+2233445566",
+      "createdAt": "2024-08-04T12:00:00Z",
+      "updatedAt": "2024-08-04T12:00:00Z",
+      "iV": 1,
+      "token": "token4",
+      "profilePicture": "https://via.placeholder.com/150?text=Michael+Brown"
+    },
+    {
+      "sId": "5",
+      "name": "Sarah Wilson",
+      "email": "sarah.wilson@example.com",
+      "phone": "+3344556677",
+      "createdAt": "2024-08-05T12:00:00Z",
+      "updatedAt": "2024-08-05T12:00:00Z",
+      "iV": 1,
+      "token": "token5",
+      "profilePicture": "https://via.placeholder.com/150?text=Sarah+Wilson"
+    }
+  ]
+}

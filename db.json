@@ -1,0 +1,230 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Politics"
+    },
+    {
+      "id": 2,
+      "name": "World News"
+    },
+    {
+      "id": 3,
+      "name": "Sports"
+    },
+    {
+      "id": 4,
+      "name": "Football"
+    },
+    {
+      "id": 5,
+      "name": "Top News"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "title": "Political Debate on New Policies",
+      "description": "A heated debate on the latest government policies.",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "thumbnail": "https://example.com/thumbnails/political-debate.jpg",
+      "categoryId": 1,
+      "duration": "15:30",
+      "publishedAt": "2024-08-10T14:30:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Election Results Analysis",
+      "description": "In-depth analysis of the recent election results.",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "thumbnail": "https://example.com/thumbnails/election-results.jpg",
+      "categoryId": 1,
+      "duration": "18:10",
+      "publishedAt": "2024-08-11T15:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Impact of New Legislation",
+      "description": "How the new legislation will affect various sectors.",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "thumbnail": "https://example.com/thumbnails/new-legislation.jpg",
+      "categoryId": 1,
+      "duration": "13:45",
+      "publishedAt": "2024-08-09T09:45:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Interview with a Political Leader",
+      "description": "An exclusive interview with a key political figure.",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "thumbnail": "https://example.com/thumbnails/political-interview.jpg",
+      "categoryId": 1,
+      "duration": "20:30",
+      "publishedAt": "2024-08-07T17:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Global Economy Update",
+      "description": "An analysis of the global economic trends.",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "thumbnail": "https://example.com/thumbnails/global-economy.jpg",
+      "categoryId": 2,
+      "duration": "12:45",
+      "publishedAt": "2024-08-09T10:15:00Z"
+    },
+    {
+      "id": 6,
+      "title": "World Leaders Summit",
+      "description": "Highlights from the World Leaders Summit.",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "thumbnail": "https://example.com/thumbnails/world-leaders-summit.jpg",
+      "categoryId": 2,
+      "duration": "20:15",
+      "publishedAt": "2024-08-05T11:30:00Z"
+    },
+    {
+      "id": 7,
+      "title": "Climate Change Conference",
+      "description": "Discussion on global climate change initiatives.",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "thumbnail": "https://example.com/thumbnails/climate-change.jpg",
+      "categoryId": 2,
+      "duration": "14:50",
+      "publishedAt": "2024-08-08T08:30:00Z"
+    },
+    {
+      "id": 8,
+      "title": "International Trade Agreements",
+      "description": "Analysis of recent international trade agreements.",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+      "thumbnail": "https://example.com/thumbnails/international-trade.jpg",
+      "categoryId": 2,
+      "duration": "11:40",
+      "publishedAt": "2024-08-06T13:20:00Z"
+    },
+    {
+      "id": 9,
+      "title": "Olympics 2024: Day 3 Highlights",
+      "description": "Exciting moments from Day 3 of the Olympics.",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+      "thumbnail": "https://example.com/thumbnails/olympics-day3.jpg",
+      "categoryId": 3,
+      "duration": "10:55",
+      "publishedAt": "2024-08-07T16:00:00Z"
+    },
+    {
+      "id": 10,
+      "title": "Tennis Grand Slam Finals",
+      "description": "Highlights from the Grand Slam tennis finals.",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "thumbnail": "https://example.com/thumbnails/tennis-finals.jpg",
+      "categoryId": 3,
+      "duration": "08:40",
+      "publishedAt": "2024-08-05T19:45:00Z"
+    },
+    {
+      "id": 11,
+      "title": "NBA Playoffs Highlights",
+      "description": "Top moments from the NBA Playoffs.",
+      "url": "https://example.com/videos/nba-playoffs.mp4",
+      "thumbnail": "https://example.com/thumbnails/nba-playoffs.jpg",
+      "categoryId": 3,
+      "duration": "12:20",
+      "publishedAt": "2024-08-09T21:00:00Z"
+    },
+    {
+      "id": 12,
+      "title": "Cricket World Cup Review",
+      "description": "A review of the recent Cricket World Cup matches.",
+      "url": "https://example.com/videos/cricket-worldcup.mp4",
+      "thumbnail": "https://example.com/thumbnails/cricket-worldcup.jpg",
+      "categoryId": 3,
+      "duration": "11:30",
+      "publishedAt": "2024-08-08T18:20:00Z"
+    },
+    {
+      "id": 13,
+      "title": "Champions League Highlights",
+      "description": "Top moments from the latest Champions League matches.",
+      "url": "https://example.com/videos/champions-league.mp4",
+      "thumbnail": "https://example.com/thumbnails/champions-league.jpg",
+      "categoryId": 4,
+      "duration": "08:20",
+      "publishedAt": "2024-08-08T19:00:00Z"
+    },
+    {
+      "id": 14,
+      "title": "Football Transfer News",
+      "description": "Latest updates on football transfers across Europe.",
+      "url": "https://example.com/videos/football-transfers.mp4",
+      "thumbnail": "https://example.com/thumbnails/football-transfers.jpg",
+      "categoryId": 4,
+      "duration": "09:50",
+      "publishedAt": "2024-08-06T13:45:00Z"
+    },
+    {
+      "id": 15,
+      "title": "World Cup Qualifiers Roundup",
+      "description": "Summary of the latest World Cup qualifier matches.",
+      "url": "https://example.com/videos/worldcup-qualifiers.mp4",
+      "thumbnail": "https://example.com/thumbnails/worldcup-qualifiers.jpg",
+      "categoryId": 4,
+      "duration": "07:15",
+      "publishedAt": "2024-08-09T17:30:00Z"
+    },
+    {
+      "id": 16,
+      "title": "Premier League Highlights",
+      "description": "Highlights from the recent Premier League matches.",
+      "url": "https://example.com/videos/premier-league.mp4",
+      "thumbnail": "https://example.com/thumbnails/premier-league.jpg",
+      "categoryId": 4,
+      "duration": "10:05",
+      "publishedAt": "2024-08-10T21:10:00Z"
+    },
+    {
+      "id": 17,
+      "title": "Top News of the Day",
+      "description": "A summary of the top news stories for today.",
+      "url": "https://example.com/videos/top-news.mp4",
+      "thumbnail": "https://example.com/thumbnails/top-news.jpg",
+      "categoryId": 5,
+      "duration": "05:00",
+      "publishedAt": "2024-08-11T07:00:00Z"
+    },
+    {
+      "id": 18,
+      "title": "Breaking News: Major World Event",
+      "description": "Coverage of a major event happening across the world.",
+      "url": "https://example.com/videos/breaking-news.mp4",
+      "thumbnail": "https://example.com/thumbnails/breaking-news.jpg",
+      "categoryId": 5,
+      "duration": "06:20",
+      "publishedAt": "2024-08-09T08:45:00Z"
+    },
+    {
+      "id": 19,
+      "title": "Special Report on Economic Trends",
+      "description": "An in-depth report on the latest economic trends.",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "thumbnail": "https://example.com/thumbnails/economic-trends.jpg",
+      "categoryId": 5,
+      "duration": "07:35",
+      "publishedAt": "2024-08-08T14:10:00Z"
+    },
+    {
+      "id": 20,
+      "title": "New Technology Innovations",
+      "description": "Exploring the latest innovations in technology.",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "thumbnail": "https://example.com/thumbnails/tech-innovations.jpg",
+      "categoryId": 5,
+      "duration": "09:10",
+      "publishedAt": "2024-08-10T09:00:00Z"
+    }
+  ]
+  
+  
+}
+
+
