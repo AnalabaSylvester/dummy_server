@@ -20,7 +20,7 @@
       "updatedAt": "2024-08-02T12:00:00Z",
       "iV": 1,
       "token": "token2",
-      "profilePicture": "https://via.placeholder.com/150?text=Jane+Smith"
+      "profilePicture": "https://images.pexels.com/photos/1040880/pexels-photo-1040880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
       "sId": "3",
@@ -31,7 +31,7 @@
       "updatedAt": "2024-08-03T12:00:00Z",
       "iV": 1,
       "token": "token3",
-      "profilePicture": "https://via.placeholder.com/150?text=Emily+Johnson"
+      "profilePicture": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
     {
       "sId": "4",
