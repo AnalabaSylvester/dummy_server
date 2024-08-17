@@ -1,38 +1,168 @@
 {
-  "featuredNews": {
-    "id": 1,
-    "title": "US Election 2024: Key Developments and Implications",
-    "description": "The US election has reached a critical juncture, with major developments impacting the political landscape.",
-    "imageUrl": "https://images.unsplash.com/photo-1580128660010-fd027e1e587a?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZG9uYWxkJTIwdHJ1bXB8ZW58MHx8MHx8fDA%3D",
-    "publishedDate": "2024-08-12T14:00:00Z",
-    "author": "Jane Smith",
-    "category": "Politics",
-    "tags": ["US election", "politics", "2024"],
-    "analysis": [
-      {
-        "statement": "The recent debates have intensified the competition between the leading candidates, potentially shifting voter sentiments.",
-        "timeAnalyzed": "2024-08-12T15:00:00Z"
-      },
-      {
-        "statement": "New polling data suggests a tight race in key swing states, which could determine the outcome of the election.",
-        "timeAnalyzed": "2024-08-12T15:30:00Z"
-      },
-      {
-        "statement": "The candidates' economic policies are expected to play a major role in influencing undecided voters in the coming weeks.",
-        "timeAnalyzed": "2024-08-12T16:00:00Z"
-      },
-      {
-        "statement": "Recent endorsements from influential figures could sway public opinion and impact voter turnout.",
-        "timeAnalyzed": "2024-08-12T16:30:00Z"
-      },
-      {
-        "statement": "The increasing focus on healthcare reforms in the candidates' platforms may address pressing voter concerns about the healthcare system.",
-        "timeAnalyzed": "2024-08-12T17:00:00Z"
-      },
-      {
-        "statement": "Social media campaigns and misinformation are likely to play a significant role in shaping voter perceptions and behaviors leading up to the election.",
-        "timeAnalyzed": "2024-08-12T17:30:00Z"
-      }
-    ]
-  }
+  "featuredNews": [
+    {
+      "id": 1,
+      "title": "US Election 2024: Key Developments and Implications",
+      "description": "The US election has reached a critical juncture, with major developments impacting the political landscape.",
+      "imageUrl": "https://images.unsplash.com/photo-1580128660010-fd027e1e587a?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZG9uYWxkJTIwdHJ1bXB8ZW58MHx8MHx8fDA%3D",
+      "publishedDate": "2024-08-12T14:00:00Z",
+      "author": "Jane Smith",
+      "category": "Politics",
+      "tags": ["US election", "politics", "2024"],
+      "analysis": [
+        {
+          "statement": "The recent debates have intensified the competition between the leading candidates, potentially shifting voter sentiments.",
+          "timeAnalyzed": "2024-08-12T15:00:00Z"
+        },
+        {
+          "statement": "New polling data suggests a tight race in key swing states, which could determine the outcome of the election.",
+          "timeAnalyzed": "2024-08-12T15:30:00Z"
+        },
+        {
+          "statement": "The candidates' economic policies are expected to play a major role in influencing undecided voters in the coming weeks.",
+          "timeAnalyzed": "2024-08-12T16:00:00Z"
+        },
+        {
+          "statement": "Recent endorsements from influential figures could sway public opinion and impact voter turnout.",
+          "timeAnalyzed": "2024-08-12T16:30:00Z"
+        },
+        {
+          "statement": "The increasing focus on healthcare reforms in the candidates' platforms may address pressing voter concerns about the healthcare system.",
+          "timeAnalyzed": "2024-08-12T17:00:00Z"
+        },
+        {
+          "statement": "Social media campaigns and misinformation are likely to play a significant role in shaping voter perceptions and behaviors leading up to the election.",
+          "timeAnalyzed": "2024-08-12T17:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Climate Change: Urgent Call for Global Action",
+      "description": "Scientists and world leaders are urging immediate and significant action to combat the escalating climate crisis.",
+      "imageUrl": "https://images.unsplash.com/photo-1565124051732-7682b70b16e7?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2xpbWF0ZSUyMGNoYW5nZXxlbnwwfHwwfHx8MA%3D%3D",
+      "publishedDate": "2024-08-10T09:00:00Z",
+      "author": "Emily Thompson",
+      "category": "Environment",
+      "tags": ["climate change", "global warming", "environment"],
+      "analysis": [
+        {
+          "statement": "The latest climate report shows unprecedented levels of greenhouse gases, signaling an urgent need for global cooperation.",
+          "timeAnalyzed": "2024-08-10T10:00:00Z"
+        },
+        {
+          "statement": "New initiatives and policies are being proposed at the UN climate summit to curb emissions and promote renewable energy.",
+          "timeAnalyzed": "2024-08-10T10:30:00Z"
+        },
+        {
+          "statement": "Experts emphasize the importance of immediate action to avoid irreversible damage to ecosystems and communities worldwide.",
+          "timeAnalyzed": "2024-08-10T11:00:00Z"
+        },
+        {
+          "statement": "The economic implications of climate change are becoming increasingly clear, with industries and economies facing significant risks.",
+          "timeAnalyzed": "2024-08-10T11:30:00Z"
+        },
+        {
+          "statement": "Social movements and youth activism continue to push for more aggressive climate policies, putting pressure on governments and corporations.",
+          "timeAnalyzed": "2024-08-10T12:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Breakthrough in Artificial Intelligence: New Horizons",
+      "description": "A major breakthrough in artificial intelligence is set to transform industries and redefine the future of technology.",
+      "imageUrl": "https://images.unsplash.com/photo-1554224154-22dec7ec8818?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZXxlbnwwfHwwfHx8MA%3D%3D",
+      "publishedDate": "2024-08-09T11:00:00Z",
+      "author": "Michael Green",
+      "category": "Technology",
+      "tags": ["AI", "technology", "innovation"],
+      "analysis": [
+        {
+          "statement": "The latest AI model demonstrates unprecedented capabilities in natural language processing, surpassing previous benchmarks.",
+          "timeAnalyzed": "2024-08-09T12:00:00Z"
+        },
+        {
+          "statement": "Industries such as healthcare, finance, and manufacturing are expected to see significant impacts from this AI advancement.",
+          "timeAnalyzed": "2024-08-09T12:30:00Z"
+        },
+        {
+          "statement": "Ethical concerns and regulatory challenges surrounding AI continue to be a focal point of discussion among experts and policymakers.",
+          "timeAnalyzed": "2024-08-09T13:00:00Z"
+        },
+        {
+          "statement": "The AI breakthrough is likely to accelerate the development of autonomous systems, with far-reaching implications for society.",
+          "timeAnalyzed": "2024-08-09T13:30:00Z"
+        },
+        {
+          "statement": "Public perception of AI is evolving as more people become aware of its potential benefits and risks.",
+          "timeAnalyzed": "2024-08-09T14:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Global Economic Outlook: Challenges and Opportunities",
+      "description": "The global economy faces both challenges and opportunities as countries navigate post-pandemic recovery and geopolitical tensions.",
+      "imageUrl": "https://images.unsplash.com/photo-1596728148873-9e2b2d39d5a4?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZWNvbm9taWN8ZW58MHx8MHx8fDA%3D",
+      "publishedDate": "2024-08-11T14:00:00Z",
+      "author": "David Lee",
+      "category": "Economy",
+      "tags": ["economy", "global finance", "recovery"],
+      "analysis": [
+        {
+          "statement": "The post-pandemic recovery has been uneven, with some regions experiencing stronger growth while others face significant challenges.",
+          "timeAnalyzed": "2024-08-11T15:00:00Z"
+        },
+        {
+          "statement": "Geopolitical tensions and trade disputes are adding uncertainty to the global economic outlook.",
+          "timeAnalyzed": "2024-08-11T15:30:00Z"
+        },
+        {
+          "statement": "Central banks are facing difficult decisions as they balance inflation control with the need to support economic growth.",
+          "timeAnalyzed": "2024-08-11T16:00:00Z"
+        },
+        {
+          "statement": "New economic policies and stimulus measures are being implemented to boost recovery and address structural challenges.",
+          "timeAnalyzed": "2024-08-11T16:30:00Z"
+        },
+        {
+          "statement": "The future of the global economy will depend on how countries manage these challenges and capitalize on emerging opportunities.",
+          "timeAnalyzed": "2024-08-11T17:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Medical Breakthrough: New Cancer Treatment Shows Promise",
+      "description": "A new treatment for cancer has shown promising results in early trials, offering hope to millions of patients worldwide.",
+      "imageUrl": "https://images.unsplash.com/photo-1580281658628-3d4ec2a6d201?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bWVkaWNhbCUyMHJlc2VhcmNofGVufDB8fDB8fHww",
+      "publishedDate": "2024-08-11T10:00:00Z",
+      "author": "Sarah Johnson",
+      "category": "Health",
+      "tags": ["cancer", "health", "medical research"],
+      "analysis": [
+        {
+          "statement": "The new treatment targets specific cancer cells, reducing the impact on healthy tissues and minimizing side effects.",
+          "timeAnalyzed": "2024-08-11T11:00:00Z"
+        },
+        {
+          "statement": "Early trial results indicate a significant improvement in patient outcomes, with some patients experiencing complete remission.",
+          "timeAnalyzed": "2024-08-11T11:30:00Z"
+        },
+        {
+          "statement": "Researchers are optimistic about the potential for this treatment to be a game-changer in the fight against cancer.",
+          "timeAnalyzed": "2024-08-11T12:00:00Z"
+        },
+        {
+          "statement": "Further research and larger clinical trials will be needed to confirm the efficacy and safety of this treatment.",
+          "timeAnalyzed": "2024-08-11T12:30:00Z"
+        },
+        {
+          "statement": "The medical community is closely watching the development of this treatment, which could represent a major advancement in cancer care.",
+          "timeAnalyzed": "2024-08-11T13:00:00Z"
+        }
+      ]
+    }
+  ]
 }
